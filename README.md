@@ -1,2 +1,2 @@
 # dyemofo
-World's Greatest Tie Dye
+Tie Dye Stuff
