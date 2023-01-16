@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Welcome to my website!
+
+There's not much here right now. I'll add stuff in the future. Probably. Until then, check out <a href="https://shop.dyemofo.com/">the shop</a>.
