@@ -7,7 +7,7 @@ title:  "Home"
 ---
 
 
-<div style="text-align: center; width: 50%;">
+<div style="text-align: center;">
 	<h1>Welcome to my website!</h1>
 	<p>
 		There's not much here right now. <br>
